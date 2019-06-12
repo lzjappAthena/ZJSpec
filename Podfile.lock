@@ -1,0 +1,22 @@
+PODS:
+  - HBLogin (0.1.0):
+    - HBNetWorking
+  - HBNetWorking (0.1.0)
+
+DEPENDENCIES:
+  - HBLogin (from `Lib/HBLogin`)
+  - HBNetWorking (from `Lib/HBNetWorking`)
+
+EXTERNAL SOURCES:
+  HBLogin:
+    :path: Lib/HBLogin
+  HBNetWorking:
+    :path: Lib/HBNetWorking
+
+SPEC CHECKSUMS:
+  HBLogin: aecece59487552b56bc99c2ca78f80268c74c5d1
+  HBNetWorking: 15ac64e6180ebbc829a61cd61825bd0ae0640a59
+
+PODFILE CHECKSUM: 3001bd585ac658ed4d21bc4bab882ce889890b78
+
+COCOAPODS: 1.5.2
